@@ -1,0 +1,10 @@
+15-03-2025 02:54 WARNING _internal ==========>  * Debugger is active!
+15-03-2025 02:54 INFO _internal ==========>  * Debugger PIN: 141-070-965
+15-03-2025 02:54 INFO _internal ==========> 127.0.0.1 - - [15/Mar/2025 02:54:55] "GET / HTTP/1.1" 200 -
+15-03-2025 02:55 INFO _internal ==========> 127.0.0.1 - - [15/Mar/2025 02:55:13] "POST /predict HTTP/1.1" 200 -
+15-03-2025 02:55 INFO _internal ==========> 127.0.0.1 - - [15/Mar/2025 02:55:13] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+15-03-2025 02:55 INFO _internal ==========> 127.0.0.1 - - [15/Mar/2025 02:55:22] "POST /predict HTTP/1.1" 200 -
+15-03-2025 02:55 INFO _internal ==========> 127.0.0.1 - - [15/Mar/2025 02:55:31] "POST /predict HTTP/1.1" 200 -
+15-03-2025 02:57 INFO _internal ==========> 127.0.0.1 - - [15/Mar/2025 02:57:13] "POST /predict HTTP/1.1" 200 -
+15-03-2025 02:58 INFO _internal ==========> 127.0.0.1 - - [15/Mar/2025 02:58:15] "POST /predict HTTP/1.1" 200 -
+15-03-2025 02:58 INFO _internal ==========>  * Detected change in '/Users/siddanthapusandeep/Data Science/Projects/Language-Identification/text_to_speech/components/get_accent.py', reloading

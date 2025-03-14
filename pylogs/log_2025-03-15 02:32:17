@@ -1,0 +1,6 @@
+15-03-2025 02:32 WARNING _internal ==========>  * Debugger is active!
+15-03-2025 02:32 INFO _internal ==========>  * Debugger PIN: 141-070-965
+15-03-2025 02:32 INFO _internal ==========> 127.0.0.1 - - [15/Mar/2025 02:32:30] "GET / HTTP/1.1" 200 -
+15-03-2025 02:32 INFO _internal ==========> 127.0.0.1 - - [15/Mar/2025 02:32:33] "GET / HTTP/1.1" 200 -
+15-03-2025 02:33 INFO _internal ==========> 127.0.0.1 - - [15/Mar/2025 02:33:58] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+15-03-2025 02:38 INFO _internal ==========>  * Detected change in '/Users/siddanthapusandeep/Data Science/Projects/Language-Identification/text_to_speech/components/textTospeech.py', reloading

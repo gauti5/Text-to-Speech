@@ -1,0 +1,8 @@
+15-03-2025 01:59 WARNING _internal ==========>  * Debugger is active!
+15-03-2025 01:59 INFO _internal ==========>  * Debugger PIN: 141-070-965
+15-03-2025 01:59 INFO _internal ==========> 127.0.0.1 - - [15/Mar/2025 01:59:30] "GET / HTTP/1.1" 200 -
+15-03-2025 01:59 INFO _internal ==========> 127.0.0.1 - - [15/Mar/2025 01:59:31] "[33mGET /apple-touch-icon-precomposed.png HTTP/1.1[0m" 404 -
+15-03-2025 01:59 INFO _internal ==========> 127.0.0.1 - - [15/Mar/2025 01:59:31] "[33mGET /apple-touch-icon.png HTTP/1.1[0m" 404 -
+15-03-2025 01:59 INFO _internal ==========> 127.0.0.1 - - [15/Mar/2025 01:59:31] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+15-03-2025 01:59 INFO _internal ==========> 127.0.0.1 - - [15/Mar/2025 01:59:43] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+15-03-2025 02:05 INFO _internal ==========>  * Detected change in '/Users/siddanthapusandeep/Data Science/Projects/Language-Identification/app.py', reloading
