@@ -1,4 +1,4 @@
-# Text to Speech 
+# AI-Powered Text to Speech Converter
 
 Text to Speech is a web application that uses Google Text to Speech gTTS (Google Text-to-Speech), a Python library and CLI tool to interface with Google Translate’s text-to-speech API. Writes spoken mp3 data to a file, a file-like object (bytestring) for further audio manipulation, or stdout. It features flexible pre-processing and tokenizing.
 
